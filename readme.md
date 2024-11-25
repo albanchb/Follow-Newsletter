@@ -1,4 +1,4 @@
-# Script d'Abonnement à la Newsletter
+# Script d'Abonnement à la Newsletter ( PhP - Json File ) 
 
 Ce projet contient un script PHP qui permet aux utilisateurs de s'abonner à une newsletter en entrant leur adresse email. L'email est ensuite stocké dans un fichier JSON pour une gestion simple des abonnements.
 
